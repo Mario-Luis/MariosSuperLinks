@@ -2163,6 +2163,11 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+.text-blue-950 {
+  --tw-text-opacity: 1;
+  color: rgb(23 37 84 / var(--tw-text-opacity));
+}
+
 .underline {
   text-decoration-line: underline;
 }
@@ -2530,7 +2535,7 @@ video {
 }
 
 body{
-  background-image: radial-gradient(#c5221c,#ab1616);
+  background-image: radial-gradient(#eeea10, #073d0e);
 }
 
 @media (min-width: 640px) {
