@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        "home": "url('/assets/IMG_8218.JPG')"
+        "home": "url('/assets/WhatsApp Image 2026-06-22 at 19.19.09.jpeg')"
       }
     },
   },

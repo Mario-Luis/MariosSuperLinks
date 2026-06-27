@@ -720,12 +720,12 @@ video {
   margin-right: auto;
 }
 
-.mb-20 {
-  margin-bottom: 5rem;
+.mb-4 {
+  margin-bottom: 1rem;
 }
 
-.mb-3 {
-  margin-bottom: 0.75rem;
+.mb-6 {
+  margin-bottom: 1.5rem;
 }
 
 .mr-3 {
@@ -742,14 +742,6 @@ video {
 
 .mt-9 {
   margin-top: 2.25rem;
-}
-
-.mb-6 {
-  margin-bottom: 1.5rem;
-}
-
-.mb-4 {
-  margin-bottom: 1rem;
 }
 
 .box-border {
@@ -851,20 +843,12 @@ video {
   display: none;
 }
 
-.h-\[300px\] {
-  height: 300px;
-}
-
 .h-\[400px\] {
   height: 400px;
 }
 
 .h-full {
   height: 100%;
-}
-
-.w-\[300px\] {
-  width: 300px;
 }
 
 .w-\[this-is\\\\\] {
@@ -1886,7 +1870,7 @@ video {
 }
 
 .bg-home {
-  background-image: url('/assets/IMG_8218.JPG');
+  background-image: url('/assets/WhatsApp Image 2026-06-22 at 19.19.09.jpeg');
 }
 
 .decoration-slice {
@@ -2088,11 +2072,6 @@ video {
   line-height: 2rem;
 }
 
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
-}
-
 .font-bold {
   font-weight: 700;
 }
@@ -2174,14 +2153,14 @@ video {
   color: rgb(59 130 246 / var(--tw-text-opacity));
 }
 
-.text-white {
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-
 .text-green-950 {
   --tw-text-opacity: 1;
   color: rgb(5 46 22 / var(--tw-text-opacity));
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 .underline {
